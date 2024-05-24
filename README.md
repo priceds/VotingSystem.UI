@@ -1,4 +1,5 @@
 # VoteAppClient
+![image](https://github.com/priceds/VotingSystem.UI/assets/12630115/6eb7593f-ee6f-4b2b-b8d0-65fab16f25e0)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
